@@ -17,6 +17,7 @@ As a way to learn some better C# I started a small tool that views various info 
 
 ### NOTES
 
+- Requires Minimum Build 16299 Minimum (Plans to lower to 15063 in future)
 - This will be prerelease for the foreseeable future!
 - Expect Exception errors, bugs, issues to occur... I am learning in very little free time!
 - This will be Read Only when viewing files, NO modification features are planned
