@@ -18,6 +18,14 @@ As a way to learn some better C# I started a small tool that views various info 
 
 
 
+### TODO's
+
+- Fix some exceptions likely to occur in W10M
+- Improve Information output
+- UI
+- .pdb download progress
+
+
 ### NOTES
 
 - Solution is set to Build 16299, but compatible with 15063 with AppxManifest Version changing, a W10M compatible package will be provided.
