@@ -14,7 +14,7 @@ As a way to learn some better C# I started a small tool that views various info 
 
 
 
-<img src="/main.png" alt="main" style="zoom: 50%;" /><img src="/phone.png" alt="main" style="zoom: 35.7%;" />
+<img src="/main.png" alt="main" width=370 /><img src="/phone.png" alt="main" width=250 />
 
 
 
