@@ -10,6 +10,7 @@ As a way to learn some better C# I started a small tool that views various info 
 - .PDB Symbol Downloading (Official MS files Only)
 - Imported and Exported Functions
 - Image Header Information
+- ARM, ARM64, x86, x64 and W10M compatible 
 
 
 
